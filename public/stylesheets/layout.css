@@ -1,0 +1,251 @@
+@charset "utf-8";
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	color: #efefef;
+	background: #004b87 url('https://gc.blackboard.com/branding/_1_1/georgian-accelerator-header.png') 50% top repeat;
+	margin: 0;
+	padding: 0;
+}
+.container {
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul{
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; 
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+	display: block;
+	margin: 0 auto;
+}
+
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+header img{
+	padding: 30px 0;
+}
+
+/* ~~ navigationh ~~ */
+nav {
+	height: 60px;
+	background-color: #333;
+}
+
+nav ul{
+}
+
+nav ul li {
+	width: 150px;
+	display: inline-block;
+	padding: 18px 0;
+	text-align: center;
+}
+nav ul li:hover, li:active{
+	background-color: #004b87;
+}
+nav ul li a{
+	color: #efefef;
+	text-decoration: none;
+	font-weight:300;
+}
+
+nav ul li a:hover, a:active, a:focus{
+	text-decoration: underline;
+	font-size: 14.5px;
+	font-weight: bolder;
+}
+slideOut{
+	width: 420px;
+	height: 60px;
+	font-size: 18px;
+	text-align: center;
+	color: #efefef;
+	padding: 18px 0;
+	margin: 0 auto 0 auto;
+	display:block;
+	background-color: #222;
+	border-radius: 5px;
+}
+#small-nav option a{
+	padding: 15px;
+	text-align: center;
+}
+#video{
+	margin: 4% auto;
+	text-align:center;
+	display:block;
+	padding: 20px;
+}
+
+/* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
+.container {
+	width: 95%;
+	max-width: 1260px;
+	min-width: 320px;
+	margin: 0 auto; 
+}
+.content {
+	padding: 10px 0;
+}
+/* ~~ The footer ~~ */
+footer {
+	text-align: center;
+	padding: 10px 0;
+	background-color: #222;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+@media only screen and (min-width: 300px) {
+	.container{
+		padding:10px;
+	}
+	header img{
+		width:80%;
+	}
+	nav{
+		display:none;
+	}
+	#video{
+		width:400px;
+		padding-top: 5px;
+	}
+}
+
+@media only screen and (min-width: 480px) {
+	#video{
+		width: 420px;
+	}
+}
+@media only screen and (min-width: 768px) {
+	header img{
+		max-width: 700px;
+	}
+	#video{
+		width: 380px;
+	}
+	.slideOut{
+		display:none;
+	}
+	nav {
+	height: 60px;
+	background: #333;
+    background-image: -o-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -moz-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -webkit-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -ms-linear-gradient(bottom, #222222 0%, #555555 100%);    
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #222222),color-stop(1, #555555));    
+    background-image: linear-gradient(bottom, #222222 0%, #555555 100%);
+	display:block;
+	text-align: center;
+	}
+}
+header div {
+            color: rgb(255,255,255);
+            background-color: rgba(3,3,3,1);
+            position: fixed;
+				left: -300px;
+				top: 50px;
+            width: 250px;
+            padding-left: 100px;
+        }
+
+header div a[title="Navigation Panel"] {
+	position: absolute;
+	top: 0;
+	right: -1.8em;
+	padding: 8px 8.5px;
+	background-color: rgba(0,0,0,0.7);
+	/* STEP 11a: Set up transition to handle animation */
+	transition: all 0.1s;
+	}
+header div.slideOut{
+	left: -350px;
+}
+header div.slideOut:hover {
+	left: -100px;
+	}
+    /* STEP 11b: Add interactive class with appropriate transform */
+header div > a.rotated {
+    transform: rotate(180deg);
+}
+header div ul {
+    list-style-type: none;
+    margin: 3em 1em 1em 1em;
+    padding: 0;
+}
+header div ul li{
+	padding: 10px 0;
+}
+header div a {
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	padding: 10px -15px 10px 10px;  
+}
+header div a:link {
+	color: white;
+}
+header div a:visited {
+	color: white;
+}
+header div a:focus {
+}
+header div a:hover {
+	color: red;            
+}
+header div a:active {
+	color: yellow;
+}
+#inside-nav button{
+	list-style:none;
+	width:50%;
+	height: 60px;
+	font-size: 18px;
+	text-decoration: none;
+	text-shadow: 2px 2px 2px #333;
+	padding: 12px;
+	float: left;
+	color: #e8f0de;
+	border: solid 1px #538312;
+	background: #64991e;
+	background: -webkit-gradient(linear, left top, left bottom, from(#7db72f), to(#4e7d0e));
+	background: -moz-linear-gradient(top,  #7db72f,  #4e7d0e);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#7db72f', endColorstr='#4e7d0e');
+}
+#inside-nav:nth-child(2n+0){
+	clear:right;
+}
+figure{
+	float:right;
+	position:relative;
+	background: #efefef;
+	padding:2px;
+	border-radius: 10%;
+}
+#sign-out{
+	position:absolute;
+}
+footer{
+	width:100%;
+	clear:both;
+}
