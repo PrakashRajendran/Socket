@@ -1,0 +1,8 @@
+[2015-03-26 22:40:22.006] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-03-26 22:40:35.387] [INFO] SocketWebApp - Displaying signup page
+[2015-03-26 22:40:41.658] [INFO] SocketWebApp - Redirecting to login page
+[2015-03-26 22:46:10.757] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-03-26 22:48:42.881] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-03-26 22:48:55.659] [INFO] SocketWebApp - Redirecting to login page
+[2015-03-26 22:48:56.199] [INFO] SocketWebApp - Redirecting to login page
+[2015-03-26 22:49:08.507] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp

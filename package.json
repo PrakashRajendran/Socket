@@ -6,7 +6,7 @@
   },
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon ./bin/www"
   },
   "dependencies": {
     "express": "~4.2.0",
