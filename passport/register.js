@@ -1,5 +1,5 @@
 var LocalStrategy   = require('passport-local').Strategy;
-var User = require('../models/user');
+var User = require('../models/userModel');
 var bCrypt = require('bcrypt-nodejs');
 
 //Import log4js framework to write and display logs

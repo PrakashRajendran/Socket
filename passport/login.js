@@ -1,5 +1,5 @@
 var LocalStrategy   = require('passport-local').Strategy;
-var User = require('../models/user');
+var User = require('../models/userModel');
 var bCrypt = require('bcrypt-nodejs');
 
 var log4js = require('../logger.js');
@@ -31,7 +31,7 @@ module.exports = function(passport){
                     // which will be treated like success
 					console.log(user);
 					log.info('User and password matching....User is authenticating currently');
-                    return done(null, user, { successRedirect: 'dashboard', username: username } );
+                    return done(null, user, { successRedirect: 'dashboard', user: user } );
                 }
             );
 

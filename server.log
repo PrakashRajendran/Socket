@@ -513,3 +513,156 @@
 [2015-04-04 20:48:26.966] [INFO] SocketWebApp - User and password matching....User is authenticating currently
 [2015-04-04 20:48:26.968] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
 [2015-04-04 20:48:29.241] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-04 20:51:59.992] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:09:25.004] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:09:25.046] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:11:36.756] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-04 23:11:39.293] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:11:44.798] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:11:44.801] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:15:05.101] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:15:06.203] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:15:13.635] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:15:13.637] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:15:40.210] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:15:40.602] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:15:45.040] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:15:45.042] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:19:06.271] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:19:15.114] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:19:19.535] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:19:23.411] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:19:23.414] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:20:40.493] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:20:55.298] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:21:00.565] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:21:01.651] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:21:04.242] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:21:04.246] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:21:26.007] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:21:30.532] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:21:33.502] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:21:33.504] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:23:10.725] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:23:54.112] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:23:57.229] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:23:57.232] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:25:55.650] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:26:20.874] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:26:23.648] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:26:23.651] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:26:35.953] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:26:36.558] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:26:38.960] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:26:38.962] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:32:47.104] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:35:01.669] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:35:26.530] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:35:41.308] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:35:51.491] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:43:46.872] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:43:47.698] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:43:49.877] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:43:49.881] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:45:37.573] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:46:45.988] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:46:48.312] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:46:48.315] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:47:32.807] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:47:32.929] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:47:35.908] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:47:35.910] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:51:31.637] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-04 23:51:33.508] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:51:33.510] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:56:29.984] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-04 23:56:32.057] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:56:32.059] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:57:54.772] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:57:56.404] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:57:58.868] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:57:58.871] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-04 23:58:48.361] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-04 23:58:52.884] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-04 23:58:55.041] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-04 23:58:55.043] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:00:24.007] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:00:34.134] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:00:36.250] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:00:38.207] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:00:38.210] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:00:48.856] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:00:51.665] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:00:57.207] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:00:57.210] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:01:20.934] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:01:21.051] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:01:24.092] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:01:24.095] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:02:14.281] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:02:19.797] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:02:22.845] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:02:22.848] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:02:48.936] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:02:58.865] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:03:00.028] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:03:02.923] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:03:02.926] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:05:44.440] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:18:09.965] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:18:18.313] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:18:21.379] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:18:21.383] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:20:21.732] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:20:25.946] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:20:29.014] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:20:29.017] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:21:45.261] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:21:45.391] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:21:46.034] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:21:49.858] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:21:49.861] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:22:10.601] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:22:28.973] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:22:30.550] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:22:33.162] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:22:33.165] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:25:55.432] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:25:59.191] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:26:00.639] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:26:03.189] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:26:03.192] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:26:55.593] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:27:43.250] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:27:45.228] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:27:45.230] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:29:50.954] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:29:54.936] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:29:57.253] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:29:57.255] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:30:26.762] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:30:29.171] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:30:31.445] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:30:33.427] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:30:33.429] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:32:41.024] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:32:44.663] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:32:46.964] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:32:46.967] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:33:48.081] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-05 00:33:50.253] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:33:50.255] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:35:16.286] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:35:19.041] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:35:21.398] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:35:21.401] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:37:51.412] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:38:01.663] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:38:26.626] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:38:46.516] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:38:49.015] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:38:49.018] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 00:39:46.653] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 00:39:47.945] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 00:39:50.033] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 00:39:50.036] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in

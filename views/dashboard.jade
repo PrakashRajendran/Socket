@@ -54,28 +54,54 @@ html
           a(href='/signout')
             img#singn-out(src='https://cdn2.iconfinder.com/data/icons/picons-essentials/57/logout-512.png', width='50px', alt='sign-out-icon')
         .content
-          form#update-profile
-            h2 USER PROFILE - Welcome, #{loggedUser}
-            br
-            input.input-box(type='text', placeholder='First Name', required='')
-            br
-            br
-            input.input-box(type='text', placeholder='Last Name', required='')
-            br
-            br
-            input.input-box(type='email', placeholder='Email ID', required='')
-            br
-            br
-            input.input-box(type='tel', placeholder='Phone Number')
-            br
-            br
-            input.input-box(type='text', placeholder='City')
-            br
-            br
-            input.input-box(type='text', placeholder='Province')
-            br
-            br
-            button.orangegrade(type='submit') UPDATE PROFILE
+          form#update-profile(action='update-profile' method='POST')
+            h4 Welcome, #{userInfo.firstName + ' ' + userInfo.lastName}
+            if update=='enabled'
+             br
+             input.input-box(type='text', placeholder='First Name', required='', value='#{userInfo.firstName}', name='firstName')
+             br
+             br
+             input.input-box(type='text', placeholder='Last Name', required='', value='#{userInfo.lastName}', name='lastName')
+             br
+             br
+             input.input-box(type='email', placeholder='Email ID', required='', value='#{userInfo.username}', name='username')
+             br
+             br
+             input.input-box(type='tel', placeholder='Phone Number', value='#{userInfo.phoneno}', name='phoneNo')
+             br
+             br
+             input.input-box(type='text', placeholder='City', value='#{userInfo.city}', name='city')
+             br
+             br
+             input.input-box(type='text', placeholder='Province', value='#{userInfo.province}', name='province')
+             input(type='hidden', value='update', name='request')
+             input(type='hidden', value='#{userInfo._id}', name='id')
+             br
+            else if update=='disabled'
+             br
+             input.input-box(type='text', placeholder='First Name', required='', disabled, value='#{userInfo.firstName}')
+             br
+             br
+             input.input-box(type='text', placeholder='Last Name', required='', disabled, value='#{userInfo.lastName}')
+             br
+             br
+             input.input-box(type='email', placeholder='Email ID', required='', disabled, value='#{userInfo.username}')
+             br
+             br
+             input.input-box(type='tel', placeholder='Phone Number', disabled, value='#{userInfo.phoneno}')
+             br
+             br
+             input.input-box(type='text', placeholder='City', disabled, value='#{userInfo.city}')
+             br
+             br
+             input.input-box(type='text', placeholder='Province', disabled, value='#{userInfo.province}')
+             input(type='hidden', value='edit', name='request')
+             br
+             br
+            if update=='enabled'
+              button.orangegrade(type='submit') UPDATE PROFILE
+            else if update=='disabled'
+             button.orangegrade(type='submit') EDIT PROFILE
             br
             br
             br

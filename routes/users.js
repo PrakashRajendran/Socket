@@ -1,5 +1,6 @@
 /* Import the express package */
 var express = require('express');
+var User = require('../models/userModel');
 var app = express.Router();
 
 //Import log4js framework to write and display logs
@@ -46,7 +47,7 @@ module.exports = function(passport) {
 			req.logIn(user, function(err) {
 				log.info('User : ' + user.firstName + ' ' + user.lastName + ' is currently logged in');
 				if (err) { return next(err); }
-					return res.json({redirector: info.successRedirect, loggedUser : user.firstName + ' ' + user.lastName});
+					return res.json({redirector: info.successRedirect});
 			});
 		})(req, res, next);
 	});
@@ -79,7 +80,45 @@ module.exports = function(passport) {
 	
 	/* GET Dashboard */
 	app.get('/dashboard', isAuthenticated, function(req, res){
-		res.render('dashboard', { loggedUser: req.loggedUser });
+		res.render('dashboard', { userInfo: req.user, update: 'disabled' });
+	});
+	
+	/* POST Dashboard */
+	app.post('/update-profile', isAuthenticated, function(req, res){
+		console.log(req.body.request);
+		if (req.body.request=='edit') {
+			res.render('dashboard', { userInfo: req.user, update: 'enabled' });
+		}else if(req.body.request=='update'){
+			console.log('inside update');
+			
+			var query = {"_id": req.body.id};
+			
+			var options = { upsert: true };
+			
+			var updateQuery = { 
+				username : req.body.username,
+				firstName :  req.body.firstName,
+				lastName :  req.body.lastName,
+				phoneno :  req.body.phoneNo,
+				city :  req.body.city,
+				province :  req.body.province
+			};
+			 User.findOneAndUpdate(
+				query,
+				updateQuery,
+				options
+			 ,function(err, user) {
+					console.log('inside callback');
+                    // In case of any error, return using the done method
+                    if (err) { return next(err); }
+                    res.render('dashboard', { userInfo: user, update: 'disabled' });
+                });
+		}
+	});
+	
+	/* POST update-profile */
+	app.get('/update-profile', isAuthenticated, function(req, res){
+		res.render('dashboard', { userInfo: req.user, update: enabled });
 	});
 
 	/* GET signout */
