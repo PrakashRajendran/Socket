@@ -1,0 +1,56 @@
+@media only screen and (min-width: 100px) {
+	.container{
+		text-align:center;
+		padding:10px;
+	}
+	header img{
+		width:85%;
+	}
+	nav{
+		display:none;
+	}
+	.content{
+		padding-top:1%;
+	}
+	#video{
+		width:380px;
+		padding-top: 5px;
+		text-align:center;
+		display:block;
+	}
+	#inside-nav{
+	padding-top:1em;
+	}
+}
+
+@media only screen and (min-width: 480px) {
+	header img{
+		width:400px;
+	}
+	#video{
+		width: 400px;
+		text-align:center;
+		display:block;
+	}
+	#inside-nav{
+	padding-top:4em;
+	}
+}
+@media only screen and (min-width: 768px) {
+	header img{
+		max-width: 500px;
+	}
+	#video{
+		width: 400px;
+		text-align:center;
+		display:block;
+	}
+	.slideOut{
+		display:none;
+	}
+	nav {
+	height: 60px;
+	display:block;
+	text-align: center;
+	}
+}

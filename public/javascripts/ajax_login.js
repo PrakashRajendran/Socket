@@ -7,25 +7,19 @@ $(document).ready(function() {
                 url: '/login',
                 data: {action : 'login', username : $('#username').val(), password : $('#password').val()},
                 type: 'post',
-				crossDomain: true,
-                async: 'true',
-                dataType: 'json'
+				dataType: 'json',
             })
             .done(function (result) {
-				console.log("123");
-                window.location.replace(result.redirect);
+				console.log(result);
+				console.log("done");
+                window.location = result.redirector;
             })
-            .always(function (result) {
-				$('#login-form').prepend('<div class="error"></div>');
+            .fail(function (request,error) {
+               $('#login-form').prepend('<div class="error"></div>');
 				$('div.error').append('<span>Invalid email or password!!!</span>').delay(5000).queue(function(next){
 					  $(this).fadeOut('slow').remove(); 
 				});
-				console.log("345");
-            })
-            .fail(function (request,error) {
-                console.log("656");
-                // This callback function will trigger on unsuccessful action
-                //alert('Network error has occurred please try again!');
+				console.log("always");
             })
         } else {
             if($('#username').val().length <= 0 && $('#password').val().length > 0) {

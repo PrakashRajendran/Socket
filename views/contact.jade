@@ -1,4 +1,4 @@
-doctype html
+﻿doctype html
 html
   head
     meta(charset='utf-8')
@@ -6,6 +6,7 @@ html
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     link(href='./stylesheets/layout.css', rel='stylesheet', type='text/css', media='screen')
     link(href='./stylesheets/form.css', rel='stylesheet', type='text/css', media='screen')
+    link(href='./stylesheets/responsive.css', rel='stylesheet', type='text/css', media='screen')
     script(src='./javascripts/jquery-2.1.3.min.js', type='application/javascript')
     script(src='./javascripts/jquery-ui.min.js', type='application/javascript')
     script(src='./javascripts/jquery.easing.1.3.js', type='application/javascript')
@@ -17,11 +18,11 @@ html
         nav
           ul
             li
-              a(href='/') HOME
+              a(href='/dashboard') HOME
             li
               a(href='/about') ABOUT
             li
-              a(href='/signup') REGISTER
+              a(href='/register') REGISTER
             li
               a(href='/contact') CONTACT
         // Nav menu for smaller devices
@@ -33,7 +34,7 @@ html
             li
               a(href='/about') ABOUT
             li
-              a(href='/signup') REGISTER
+              a(href='/register') REGISTER
             li
               a(href='/contact') CONTACT
         // 

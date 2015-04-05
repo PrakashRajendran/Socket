@@ -8,7 +8,7 @@ var log=log4js.LOG;
 
 module.exports = function(passport){
 
-	passport.use('signup', new LocalStrategy({
+	passport.use('register', new LocalStrategy({
             passReqToCallback : true // allows us to pass back the entire request to the callback
         },
         function(req, username, password, done) {
@@ -18,7 +18,7 @@ module.exports = function(passport){
                 User.findOne({ 'username' :  username }, function(err, user) {
                     // In case of any error, return using the done method
                     if (err){
-                        log.info('Seems there is an error in signup process: '+err);
+                        log.info('Seems there is an error in register process: '+err);
                         return done(err);
                     }
                     // already exists
@@ -44,7 +44,7 @@ module.exports = function(passport){
                                 throw err;  
                             }
                             log.info('User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard');    
-                            return done(null, newUser, { successRedirect: 'dashboard'} );
+                            return done(null, newUser, { successRedirect: 'dashboard', loggedUser : req.param('firstName') + ' ' + req.param('lastName')} );
                         });
                     }
                 });

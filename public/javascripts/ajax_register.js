@@ -6,11 +6,14 @@ $(document).ready(function() {
             // action is functionality we want to call and outputJSON is our data
 			var selected_occupation = $('#select-occupation option:selected').val();
             $.ajax({
-                url: '/signup',
-                data: {action : 'signup', firstName : $('#firstName').val(), lastName : $('#lastName').val(), username : $('#username').val(), password : $('#createpassword').val(), occupation : selected_occupation},
+                url: '/register',
+                data: {action : 'register', firstName : $('#firstName').val(), lastName : $('#lastName').val(), username : $('#username').val(), password : $('#createpassword').val(), occupation : selected_occupation},
                 type: 'post',
                 async: 'true',
-                dataType: 'json'
+                dataType: 'json',
+				xhrFields: {
+				   withCredentials: true
+				}
             })
             .done(function (result) {
 				console.log("123");

@@ -2,7 +2,7 @@ form{
 	text-align:center;
 	margin: 0 auto;
 	display:block;
-	margin-top: 30px;
+	clear:left;
 }
 
 .input-box {
@@ -17,7 +17,6 @@ form{
 }
 #slect-occupation option{
 	text-align: center;
-	
 }
 textarea{
 	min-width: 400px;
@@ -30,8 +29,8 @@ textarea{
 	font-size: 20px;
 	color:#efefef;
 	text-shadow:1px 1px 2px #333;
-	width: 250px;
-	height: 60px;
+	width: 410px;
+	height: 50px;
 	border-radius:6px;
 	border:1px solid #ED8F0A;
 	margin-top: 30px;
@@ -44,8 +43,6 @@ textarea{
 	background: -ms-linear-gradient(top,  #f9c667 0%,#f79621 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #f9c667 0%,#f79621 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9c667', endColorstr='#f79621',GradientType=0 ); /* IE6-9 */
-
-
 }
 .orangegrade:hover{
 	background-color:background: #f79621; /* Old browsers */
@@ -57,8 +54,8 @@ textarea{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f79621', endColorstr='#f9c667',GradientType=0 ); /* IE6-9 */
 }
 .greengrade{
-	width: 300px;
-	height: 60px;
+	width: 410px;
+	height: 50px;
 	font-size: 20px;
 	text-shadow:1px 1px 2px #333;	-moz-box-shadow:inset 0px 1px 0px 0px #caefab;
 	border-radius:6px;
@@ -94,22 +91,22 @@ textarea{
 /* Login Errors */
 
 div.error {
-  display: block;
-  text-align: center;
-  margin: 0 auto;
-  font-size: 11px;
-  color: white;
-  width: 25%;
-  margin-bottom: 25px;
-  border-radius: 10px;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	ont-size: 11px;
+	color: white;
+	width: 25%;
+	margin-bottom: 25px;
+	border-radius: 10px;
 }
 
 div.error span {
-  background-color: red;
-  padding: 10px;
-  text-align: center;
-  display: block;
-  width: 100%;
+	background-color: red;
+	padding: 10px;
+	text-align: center;
+	display: block;
+	width: 100%;
 }
 
 .input-error {

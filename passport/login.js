@@ -24,14 +24,14 @@ module.exports = function(passport){
                     }
                     // User exists but wrong password, log the error 
                     if (!isValidPassword(user, password)){
-					console.log("121212121");
                         log.info('Invalid Password');
                         return done(null, false, req.flash('message', 'Invalid Password')); // redirect back to login page
                     }
                     // User and password both match, return user from done method
                     // which will be treated like success
+					console.log(user);
 					log.info('User and password matching....User is authenticating currently');
-                    return done(null, user);
+                    return done(null, user, { successRedirect: 'dashboard', username: username } );
                 }
             );
 

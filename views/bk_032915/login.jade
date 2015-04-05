@@ -1,4 +1,4 @@
-﻿doctype html
+doctype html
 html
   head
     meta(charset='utf-8')
@@ -6,7 +6,6 @@ html
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     link(href='./stylesheets/layout.css', rel='stylesheet', type='text/css', media='screen')
     link(href='./stylesheets/form.css', rel='stylesheet', type='text/css', media='screen')
-    link(href='./stylesheets/responsive.css', rel='stylesheet', type='text/css', media='screen')
     script(src='./javascripts/jquery-2.1.3.min.js', type='application/javascript')
     script(src='./javascripts/jquery.easing.1.3.js', type='application/javascript')
     script(src='./javascripts/menu-slider.js', type='application/javascript')
@@ -14,23 +13,23 @@ html
   body
     .container
       header
-        a(href='/dashboard')
+        a(href='home.html')
           img(src='./images/media/socket-app-logo.png', alt='socket-logo')
         nav
           ul
             li
-              a(href='/login') HOME
+              a(href='/') HOME
             li
               a(href='/about') ABOUT
             li
-              a(href='/register') REGISTER
+              a(href='/signup') REGISTER
             li
               a(href='/contact') CONTACT
         .slideOut
           a(href='', title='Navigation Panel') ➜
           ul
             li
-              a(href='/login') HOME
+              a(href='/') HOME
             li
               a(href='/about') ABOUT
             li
@@ -39,22 +38,22 @@ html
               a(href='/contact') CONTACT
       // end .header
       .content
-        form#login-form(action='/login', method='GET')
+        form#login-form(action='/login', method='POST')
           input#username.input-box(type='email', placeholder='Email ID', required='', name='username')
           br
           br
           input#password.input-box(type='password', placeholder='Password', required='', name='password')
           br
-          button#submit.greengrade Sign In
+          button#submit.orangegrade Sign In
           br
         div(class='signup-button')
-         a(href='/register')
-           button.orangegrade First Time User!
+         a(href='/signup')
+           button.greengrade First Time User!
         // end .form
-        a(href='#')
+        a(href='home.html')
           img#video(src='http://placehold.it/500x300"', alt='socket-logo')
         // end .content
       footer
-        p &copy; Georgian College 2015
+        p Footer
       // end .footer
       // end .container

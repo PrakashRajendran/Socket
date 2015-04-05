@@ -26,14 +26,27 @@ a img { /* this selector removes the default blue border displayed in some brows
 }
 
 /* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+headrer{
+	position:relative;
+}
 header img{
 	padding: 30px 0;
 }
 
 /* ~~ navigationh ~~ */
 nav {
+	width:100%;
 	height: 60px;
-	background-color: #333;
+	position:absolute;
+		left: 0;
+	float: left;
+	background: #333;
+    background-image: -o-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -moz-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -webkit-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -ms-linear-gradient(bottom, #222222 0%, #555555 100%);    
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #222222),color-stop(1, #555555));    
+    background-image: linear-gradient(bottom, #222222 0%, #555555 100%);
 }
 
 nav ul{
@@ -79,9 +92,8 @@ slideOut{
 	margin: 4% auto;
 	text-align:center;
 	display:block;
-	padding: 20px;
+	margin-top: 40px;
 }
-
 /* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
 .container {
 	width: 95%;
@@ -90,7 +102,7 @@ slideOut{
 	margin: 0 auto; 
 }
 .content {
-	padding: 10px 0;
+	padding-top:5em;
 }
 /* ~~ The footer ~~ */
 footer {
@@ -99,66 +111,6 @@ footer {
 	background-color: #222;
 }
 
-/* ~~ miscellaneous float/clear classes ~~ */
-.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
-	float: right;
-	margin-left: 8px;
-}
-.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
-	float: left;
-	margin-right: 8px;
-}
-.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
-	clear:both;
-	height:0;
-	font-size: 1px;
-	line-height: 0px;
-}
-
-@media only screen and (min-width: 300px) {
-	.container{
-		padding:10px;
-	}
-	header img{
-		width:80%;
-	}
-	nav{
-		display:none;
-	}
-	#video{
-		width:400px;
-		padding-top: 5px;
-	}
-}
-
-@media only screen and (min-width: 480px) {
-	#video{
-		width: 420px;
-	}
-}
-@media only screen and (min-width: 768px) {
-	header img{
-		max-width: 700px;
-	}
-	#video{
-		width: 380px;
-	}
-	.slideOut{
-		display:none;
-	}
-	nav {
-	height: 60px;
-	background: #333;
-    background-image: -o-linear-gradient(bottom, #222222 0%, #555555 100%);
-    background-image: -moz-linear-gradient(bottom, #222222 0%, #555555 100%);
-    background-image: -webkit-linear-gradient(bottom, #222222 0%, #555555 100%);
-    background-image: -ms-linear-gradient(bottom, #222222 0%, #555555 100%);    
-    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #222222),color-stop(1, #555555));    
-    background-image: linear-gradient(bottom, #222222 0%, #555555 100%);
-	display:block;
-	text-align: center;
-	}
-}
 header div {
             color: rgb(255,255,255);
             background-color: rgba(3,3,3,1);
@@ -216,6 +168,9 @@ header div a:hover {
 header div a:active {
 	color: yellow;
 }
+#inside-nav{
+	padding-top:5em;
+}
 #inside-nav button{
 	list-style:none;
 	width:50%;
@@ -247,5 +202,29 @@ figure{
 }
 footer{
 	width:100%;
+	position:absolute;
+		left:0;
+	background: #333;
+    background-image: -o-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -moz-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -webkit-linear-gradient(bottom, #222222 0%, #555555 100%);
+    background-image: -ms-linear-gradient(bottom, #222222 0%, #555555 100%);    
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #222222),color-stop(1, #555555));    
+    background-image: linear-gradient(bottom, #222222 0%, #555555 100%);
+	border-top: #444 1px solid;
+}
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
 	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
 }
