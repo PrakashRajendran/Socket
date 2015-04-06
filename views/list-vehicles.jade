@@ -56,10 +56,13 @@ html
             img#singn-out(src='https://cdn2.iconfinder.com/data/icons/picons-essentials/57/logout-512.png', width='50px', alt='sign-out-icon')
         br
         br
-        h3#appTitle Click below to edit the vehicle
-        each vehicle, i in vehicles
-          a(href='/vehicle/edit-vehicle/#{vehicle._id}')
-            button.greengrade #{vehicle.vehicle_license_number}
+        if vehicles.message=='No records' 
+         h5 Sorry. You don't currently have any vehicles registered.
+        if vehicles.message!=='No records'
+         h3#appTitle Click below to edit the vehicle
+         each vehicle, i in vehicles
+           a(href='/vehicle/edit-vehicle/#{vehicle._id}')
+             button.greengrade #{vehicle.vehicle_license_number}
         br
         a(href='/vehicle/add-vehicle')
           button#submit.orangegrade ADD VEHICLE

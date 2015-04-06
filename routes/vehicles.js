@@ -48,6 +48,8 @@ module.exports = function(passport) {
 			newVehicle.vehicleType = req.body.vehicletype;
 			newVehicle.vehicle_license_number = req.body.vehiclelicenseno;
 			newVehicle.user = req.session.user_id;
+			
+			console.log('proceeding to add new vehicle.......user_id : ' + req.session.user_id);
 
 			// save the new vehicle
 			newVehicle.save(function(err, newVehicle) {
@@ -57,7 +59,7 @@ module.exports = function(passport) {
 				}
 				log.info('New vehicle added succesfull. Redirecting to.....list vehicles page');    
 				
-				Vehicle.find(function(err, vehicles) {
+				Vehicle.find({ user: req.session.user_id }).populate('Vehicle').exec(function(err, vehicles) { 
 
 					// check if the vehicles from the database is empty or not
 					if (isEmpty(vehicles)) {
@@ -78,8 +80,7 @@ module.exports = function(passport) {
 	 *	description	:	Get all the business directory listings and display them in the index page
 	 */
 	app.get('/list-vehicles', function(req, res) {
-		console.log("test");
-		Vehicle.find(function(err, vehicles) {
+		Vehicle.find({ user: req.session.user_id }).populate('Vehicle').exec(function(err, vehicles) { 
 
 			// check if the vehicles from the database is empty or not
 			if (isEmpty(vehicles)) {
