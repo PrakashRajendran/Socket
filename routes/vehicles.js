@@ -156,7 +156,7 @@ module.exports = function(passport) {
 					res.render('error', { error: 'Error updating vehicle ' + vehicle_id, errorStack: err.stack} );
 				} else {  //update
 					console.log("inside vehicle.update method");
-					Vehicle.find(function(err, vehicles) {
+					Vehicle.find({ user: req.session.user_id }).populate('Vehicle').exec(function(err, vehicles) { 
 
 						// check if the vehicles from the database is empty or not
 						if (isEmpty(vehicles)) {
