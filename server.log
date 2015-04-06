@@ -1097,3 +1097,117 @@
 [2015-04-06 11:56:26.251] [INFO] SocketWebApp - User : Shankar Rajendran is currently logged in
 [2015-04-06 11:56:26.549] [INFO] SocketWebApp - User and password matching....User is authenticating currently
 [2015-04-06 11:56:26.551] [INFO] SocketWebApp - User : Shankar Rajendran is currently logged in
+[2015-04-06 13:02:07.998] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:03:57.066] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:04:10.410] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:05:04.168] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-06 13:05:05.384] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-06 13:05:05.386] [INFO] SocketWebApp - User : Prakash Rajendranis currently logged in
+[2015-04-06 13:05:52.655] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 13:13:46.590] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:13:51.404] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:13:56.459] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:14:01.465] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:14:26.527] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:14:41.513] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:14:46.539] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:14:51.548] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:16:41.711] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:17:06.750] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:17:31.758] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:17:55.245] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 13:18:07.289] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 13:24:02.430] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:24:07.416] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:24:12.431] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:24:24.120] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 13:24:25.998] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 13:24:25.999] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 13:24:38.754] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 13:25:17.443] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:25:42.486] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:25:57.552] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:30:27.939] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:30:38.052] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:30:58.095] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:31:45.480] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:31:50.505] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 13:31:51.886] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 13:31:51.887] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 13:32:45.661] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:33:05.779] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:33:10.783] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:33:40.745] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:33:45.883] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:34:15.825] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:34:20.927] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:34:25.907] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:34:45.856] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:35:25.989] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:35:36.057] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:35:46.050] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:35:56.008] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:36:01.031] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:36:11.007] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:38:31.241] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:38:51.322] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:38:56.263] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:39:06.341] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:39:23.452] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:41:06.525] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:41:51.596] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:42:11.648] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:42:16.648] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:42:21.685] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:42:51.677] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:43:31.751] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:43:41.787] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:44:11.829] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:44:36.849] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:44:41.849] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:44:56.882] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:47:18.371] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:47:31.817] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:48:12.219] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:48:17.221] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:48:22.156] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:48:24.338] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:49:02.246] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:49:03.103] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:49:08.071] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:49:20.854] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:50:27.407] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:50:30.185] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 13:51:27.460] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:51:37.517] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:52:07.545] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:53:12.642] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:54:42.782] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:54:52.812] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:55:07.808] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:56:12.943] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:56:17.907] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:56:42.963] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:58:23.017] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 13:58:49.570] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 13:58:51.040] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 13:58:51.041] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 14:00:58.393] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:01:18.390] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:01:28.436] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:01:47.272] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 14:04:54.691] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 14:04:56.133] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 14:04:56.134] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 14:06:48.992] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:06:52.901] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 14:06:55.020] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 14:06:55.021] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 14:07:54.031] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:08:19.072] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:09:45.611] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 14:13:19.513] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:13:24.519] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:13:34.542] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:22:15.381] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 14:23:20.469] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp

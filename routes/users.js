@@ -35,13 +35,6 @@ module.exports = function(passport) {
 	  res.render('contact', { title: 'SocketWebApp | Contact Us'})
 	});	
 	
-	/*	GET charge */
-	app.get('/charge', function(req, res) {
-	  // redirect to contact page
-	  log.info('Redirecting to contact page');
-	  res.render('charge', { title: 'SocketWebApp | charge'})
-	});	
-	
 	/*	GET history */
 	app.get('/history', function(req, res) {
 	  // redirect to contact page

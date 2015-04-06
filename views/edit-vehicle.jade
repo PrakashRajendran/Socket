@@ -47,7 +47,7 @@ html
             button#prof PROFILE
           a(href='/vehicle/list-vehicles')
             button#vehi VEHICLE
-          a(href='/charge')
+          a(href='/vehicle/charge')
             button#char CHARGE
           a(href='/history')
             button#hist HISTORY
@@ -78,6 +78,11 @@ html
           br
           br
           button#submit.greengrade UPDATE
+          br
+        a(href='/vehicle/list-vehicles')  
+          button#submit.greengrade CANCEL
+        a(href='/vehicle/delete-vehicle/#{editVehicleModel._id}') 
+          button.redbtn DELETE
           br
         a(href='/vehicle/add-vehicle')
           button#submit.orangegrade ADD VEHICLE
