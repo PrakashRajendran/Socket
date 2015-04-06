@@ -20,13 +20,34 @@ var isAuthenticated = function (req, res, next) {
 }
 
 module.exports = function(passport) {
+	
+	/*	GET about */
+	app.get('/about', function(req, res) {
+	  // redirect to contact page
+	  log.info('Redirecting to contact page');
+	  res.render('about', { title: 'SocketWebApp | about'})
+	});
 	 
 	/*	GET contact */
 	app.get('/contact', function(req, res) {
 	  // redirect to contact page
 	  log.info('Redirecting to contact page');
 	  res.render('contact', { title: 'SocketWebApp | Contact Us'})
-	});
+	});	
+	
+	/*	GET charge */
+	app.get('/charge', function(req, res) {
+	  // redirect to contact page
+	  log.info('Redirecting to contact page');
+	  res.render('charge', { title: 'SocketWebApp | charge'})
+	});	
+	
+	/*	GET history */
+	app.get('/history', function(req, res) {
+	  // redirect to contact page
+	  log.info('Redirecting to contact page');
+	  res.render('history', { title: 'SocketWebApp | history'})
+	});	
 	 
 	/* GET login page. */
 	app.get('/', function(req, res) {
@@ -34,7 +55,6 @@ module.exports = function(passport) {
 		res.render('login', { message: req.flash('message') });
 	});
 	
-
 	/* POST Login  */
 	app.post('/login', function(req, res, next) {
 		passport.authenticate('login', {
@@ -47,6 +67,8 @@ module.exports = function(passport) {
 			req.logIn(user, function(err) {
 				log.info('User : ' + user.firstName + ' ' + user.lastName + ' is currently logged in');
 				if (err) { return next(err); }
+					req.session.user_id = user._id;
+					console.log('logged user session id ===============' + req.session.user_id);
 					return res.json({redirector: info.successRedirect});
 			});
 		})(req, res, next);
@@ -80,6 +102,7 @@ module.exports = function(passport) {
 	
 	/* GET Dashboard */
 	app.get('/dashboard', isAuthenticated, function(req, res){
+		console.log('dashboard ----- logged user session id ===============' + req.session.user_id);
 		res.render('dashboard', { userInfo: req.user, update: 'disabled' });
 	});
 	

@@ -197,6 +197,11 @@ figure{
 	padding:2px;
 	border-radius: 10%;
 }
+.abt{
+	width:80%;
+	margin: auto;
+	text-align:left;
+}
 #sign-out{
 	position:absolute;
 }

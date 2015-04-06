@@ -1,4 +1,4 @@
-@media only screen and (min-width: 100px) {
+@media only screen and (min-width: 299px) {
 	.container{
 		text-align:center;
 		padding:10px;
@@ -18,12 +18,13 @@
 		text-align:center;
 		display:block;
 	}
-	#inside-nav{
-	padding-top:1em;
+}
+@media only screen and (min-width: 100px) and (max-width: 768px) {
+	.abt{
+		padding-top: 100px;
 	}
 }
-
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 480px) {
 	header img{
 		width:400px;
 	}
@@ -33,7 +34,7 @@
 		display:block;
 	}
 	#inside-nav{
-	padding-top:4em;
+		padding-top:4em;
 	}
 }
 @media only screen and (min-width: 768px) {
@@ -52,5 +53,8 @@
 	height: 60px;
 	display:block;
 	text-align: center;
+	}
+	.content{
+		padding-top:10%;
 	}
 }

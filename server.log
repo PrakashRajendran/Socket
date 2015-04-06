@@ -666,3 +666,315 @@
 [2015-04-05 00:39:47.945] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
 [2015-04-05 00:39:50.033] [INFO] SocketWebApp - User and password matching....User is authenticating currently
 [2015-04-05 00:39:50.036] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-05 10:35:28.337] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 10:47:00.630] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 10:47:01.739] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 10:47:01.755] [INFO] SocketWebApp - User : ds dsis currently logged in
+[2015-04-05 10:50:48.905] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 10:50:49.921] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 10:50:49.921] [INFO] SocketWebApp - User : h ojis currently logged in
+[2015-04-05 10:54:07.218] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 10:54:08.282] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 10:54:08.282] [INFO] SocketWebApp - User : h pis currently logged in
+[2015-04-05 11:04:17.111] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 11:04:18.158] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 11:04:18.158] [INFO] SocketWebApp - User : h pis currently logged in
+[2015-04-05 11:18:44.638] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 11:18:45.654] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 11:18:45.670] [INFO] SocketWebApp - User : h pis currently logged in
+[2015-04-05 11:20:23.564] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 11:20:24.517] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 11:20:24.533] [INFO] SocketWebApp - User : a ais currently logged in
+[2015-04-05 11:20:30.642] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-05 11:32:45.291] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 11:32:46.259] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 11:32:46.275] [INFO] SocketWebApp - User : a ais currently logged in
+[2015-04-05 11:43:46.966] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 11:43:47.699] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 11:43:55.269] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:44:57.213] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 11:45:12.269] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 11:45:48.550] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 11:46:25.900] [INFO] SocketWebApp - Invalid Password
+[2015-04-05 11:46:35.916] [INFO] SocketWebApp - Invalid Password
+[2015-04-05 11:46:53.952] [INFO] SocketWebApp - User already exists with username: h@h. Please try the different username.
+[2015-04-05 11:46:57.013] [INFO] SocketWebApp - User already exists with username: h@h. Please try the different username.
+[2015-04-05 11:47:23.856] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-05 11:47:24.957] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-05 11:47:24.973] [INFO] SocketWebApp - User : a bis currently logged in
+[2015-04-05 11:48:12.723] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 11:48:57.957] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 11:50:16.087] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:51:00.888] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:51:30.194] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:52:14.876] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:52:54.112] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:54:17.831] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:56:27.469] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 11:56:42.892] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:01:24.607] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:02:36.976] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:03:04.375] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:04:11.406] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:04:20.473] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:04:29.089] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:05:39.323] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:06:05.691] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:06:15.144] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:06:21.992] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:06:29.766] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:07:51.984] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:08:03.217] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:09:09.084] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:09:30.878] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:10:23.233] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:10:24.099] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:10:36.334] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:11:51.231] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:12:24.253] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:12:39.771] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:13:23.761] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:13:31.690] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:13:49.506] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:13:51.742] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:15:40.526] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:15:42.558] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:15:43.669] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:16:16.817] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:16:42.357] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:24:51.779] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:25:44.412] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:26:41.248] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:29:14.209] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:30:01.346] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:30:22.469] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:30:38.599] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:30:47.440] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:31:16.369] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:32:03.659] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:38:27.028] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:38:37.472] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:38:40.557] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:39:07.125] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:40:43.170] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:41:31.948] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:41:53.119] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:42:07.820] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 12:47:28.770] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:03:30.535] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:04:30.129] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:05:57.319] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:06:54.337] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:10:14.750] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:10:21.235] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:11:13.031] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:11:14.945] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 13:11:35.300] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-05 13:11:35.315] [INFO] SocketWebApp - User : a b is currently logged in
+[2015-04-05 13:11:43.948] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:29:45.645] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:30:54.347] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:31:54.694] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:33:27.911] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:33:51.306] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:35:18.393] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:35:21.607] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:37:04.099] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:38:31.233] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:38:40.876] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:38:44.897] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:00.962] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:04.936] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:13.879] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:20.998] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:25.681] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:27.051] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:32.800] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:39:39.188] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:44:14.498] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:44:49.364] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:45:01.123] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:45:08.925] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:45:21.267] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:45:29.628] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:45:36.944] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:45:43.369] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:46:13.407] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:46:39.661] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:46:43.045] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:46:58.127] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:47:40.627] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:57:18.009] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:57:19.995] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:58:04.442] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 13:58:05.053] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:58:09.035] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:58:11.448] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:58:58.387] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:59:03.474] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 13:59:09.156] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 13:59:11.800] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:03:20.481] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:03:22.580] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 14:03:25.589] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:03:29.286] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:03:32.331] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:03:36.210] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:03:39.170] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:06:26.606] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:06:56.078] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:09:22.153] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:09:27.876] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:09:30.348] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:09:33.518] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 14:09:37.802] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:09:45.943] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:10:55.419] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:11:00.439] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:11:07.114] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 14:11:09.650] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:11:12.952] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:11:31.520] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:11:33.728] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 14:11:37.216] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:11:39.811] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:12:36.552] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-05 14:13:39.751] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:13:43.844] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:13:47.212] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:13:49.297] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 14:13:53.215] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:13:55.128] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:14:01.575] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:21:30.908] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:23:34.822] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:24:11.058] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:25:00.688] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:25:05.861] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:32:18.147] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:33:58.295] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:36:37.448] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-05 14:37:17.177] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-05 20:52:41.236] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-05 20:53:42.647] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 08:16:47.981] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:17:10.774] [INFO] SocketWebApp - User Not Found with username prprakash2007@gmail.com
+[2015-04-06 08:17:27.346] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-06 08:17:32.284] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-06 08:17:32.288] [INFO] SocketWebApp - User : Prakash Rajendranis currently logged in
+[2015-04-06 08:18:40.812] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:18:44.389] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 08:18:49.400] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 08:18:49.402] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 08:18:59.332] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 08:18:59.334] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 08:19:21.816] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 08:19:21.818] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 08:19:43.633] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:19:46.877] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 08:19:46.883] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 08:19:58.531] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:20:08.408] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:20:10.156] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 08:20:12.618] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 08:20:12.621] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 08:20:18.517] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:20:21.967] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 08:20:24.447] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 08:20:24.451] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 08:21:18.015] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-06 08:23:09.892] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:23:14.146] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:23:24.444] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:24:49.022] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:49:11.901] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:49:47.863] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:50:35.911] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:50:41.623] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:51:11.963] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:51:51.920] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:52:01.682] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 08:59:43.606] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:00:02.100] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:00:22.125] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:00:32.346] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:03.267] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:12.456] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:18.218] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:22.565] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:37.369] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:42.986] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:02:52.125] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:05:13.835] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:14:23.139] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:14:29.143] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:14:58.786] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:19:45.848] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:19:53.956] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:20:53.706] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:20:58.773] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:21:04.168] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:21:08.855] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:21:23.715] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:23:18.925] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:23:24.060] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:26:13.902] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:27:04.725] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:27:54.789] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:28:13.342] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:28:40.487] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:30:10.539] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:31:48.144] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:31:54.859] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:32:04.968] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:34:49.251] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 09:41:41.879] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:41:45.471] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:41:55.659] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:43:50.984] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:49:51.189] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:49:57.326] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:51:06.800] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:52:38.738] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:52:51.698] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:53:07.280] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:53:12.011] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:54:07.448] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:56:28.227] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:57:33.052] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 09:58:02.030] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:58:07.363] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:58:18.658] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 09:59:43.891] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 09:59:47.998] [INFO] SocketWebApp - User Not Found with username prprakash2007@gmail.com
+[2015-04-06 10:00:03.058] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-06 10:00:04.094] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-06 10:00:04.099] [INFO] SocketWebApp - User : Prakash Rajendranis currently logged in
+[2015-04-06 10:00:09.764] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-06 10:00:14.222] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 10:00:14.224] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 10:00:47.044] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 10:03:05.727] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:03:06.946] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 10:03:33.472] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:05:28.724] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:06:18.573] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-06 10:06:21.213] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-06 10:06:21.219] [INFO] SocketWebApp - User : Prakash Rajendran is currently logged in
+[2015-04-06 10:06:37.362] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 10:08:10.619] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:09:22.118] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 10:10:04.264] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:12:24.821] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:12:29.554] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:12:29.903] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page
+[2015-04-06 10:19:19.768] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:22:05.476] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:23:55.550] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:24:31.514] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:24:35.433] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:24:40.248] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:24:50.312] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:24:55.483] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:25:05.253] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-06 10:26:54.317] [INFO] SocketWebApp - New vehicle added succesfull. Redirecting to.....list vehicles page

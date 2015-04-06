@@ -48,6 +48,8 @@ initPassport(passport);
 
 //Import app routes
 var routes = require('./routes/users')(passport);
+var vehicles = require('./routes/vehicles')(passport);
+app.use('/vehicle', vehicles);
 app.use('/', routes);
 
 /* catch 404 and forward to error handler */

@@ -2,7 +2,7 @@
 html
   head
     meta(charset='utf-8')
-    title Register Form
+    title Charge
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     link(href='./stylesheets/layout.css', rel='stylesheet', type='text/css', media='screen')
     link(href='./stylesheets/form.css', rel='stylesheet', type='text/css', media='screen')
@@ -11,18 +11,6 @@ html
     script(src='./javascripts/jquery.easing.1.3.js', type='application/javascript')
     script(src='./javascripts/menu-slider.js', type='application/javascript')
     script(src='./javascripts/ajax_register.js', type='application/javascript')
-    script(language='JavaScript').
-      <!--
-      //Accept terms & conditions script (by InsightEye www.insighteye.com)
-      //Visit JavaScript Kit (http://javascriptkit.com) for this script & more.
-      function checkCheckBox(f){
-      if (f.agree.checked == false )
-      {
-      alert('Please check the box to continue.');
-      return false;
-      }else
-      return true;
-      }
   body
     .container
       header
@@ -54,44 +42,34 @@ html
         // 
       // end .header
       .content
-        form(id='register-form', action='/register.jade', method='POST', onsubmit='return checkCheckBox(this)')
+        section#inside-nav
+          a(href='/dashboard')
+            button#prof PROFILE
+          a(href='/vehicle')
+            button#vehi VEHICLE
+          a(href='/charge')
+            button#char CHARGE
+          a(href='/history')
+            button#hist HISTORY
+        figure
+          a(href='/signout')
+            img#singn-out(src='https://cdn2.iconfinder.com/data/icons/picons-essentials/57/logout-512.png', width='50px', alt='sign-out-icon')
+        form(id='register-form', action='/vehicle', method='POST', onsubmit='return checkCheckBox(this)')
           br
           br
           br
-          h3  Please fill the form given below
-          br
-          br
-          input.input-box(type='text', name='firstName', id='firstName', placeholder='First Name', required='')
-          br
-          br
-          input.input-box(type='text', name='lastName', id='lastName', placeholder='Last Name', required='')
+          h3  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ONE STEP AWAY BEFORE YOU START CHARGING
           br
           br
           select#select-occupation
             option(value='0') SELECT
-            option(value='1') Student
-            option(value='2') Staff
-            option(value='3') Visitor
+            option(value='1') Vehicle - 1
+            option(value='2') Vehicle - 2
+            option(value='3') Vehicle - 3
           br
+          button#submit.greengrade START CHARGING
           br
-          input.input-box(type='email', name='username', id='username', placeholder='Email ID', required='')
-          br
-          br
-          input.input-box(type='password', name='createpassword', id='createpassword', placeholder='Create Password', required='')
-          br
-          br
-          input.input-box(type='password', name='confirmpassword', id='confirmpassword', placeholder='Retype Password', required='')
-          br
-          br
-          b(id='terms')
-           a(href='#') Please read and accept terms and conditions
-          br 
-          br
-          | I accept: 
-          input(type='checkbox', value='0', name='agree')
-          br
-          br
-          button#submit.orangegrade SUBMIT
+          button#submit.orangegrade STOP CHARGING
           br
           br
           br

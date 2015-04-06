@@ -124,3 +124,14 @@ div.error span {
   width: 409px;
   border-radius: 8px;
 }
+b#terms a{
+	color:#efefef;
+}
+
+#appTitle {
+	display: block;
+	width: 100%;
+	float: left;
+	text-align: left;
+	font-size: 16px;
+}
