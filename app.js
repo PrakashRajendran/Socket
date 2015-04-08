@@ -59,6 +59,10 @@ app.use(function(req, res, next) {
     next(err);
 });
 
+app.get('pizza-tip-calc', function(req, res) {
+	res.render('pizza-tip-calc');
+});
+
 // development error handler
 if (app.get('env') === 'development') {
 	app.locals.pretty = true;
