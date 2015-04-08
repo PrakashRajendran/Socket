@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<title>HTML | Pizza Tip Calculator</title>
+	<head>
+		<style>
+			.wrapper {
+			  with: 100%;
+			  background-color: #b7afac;
+			  padding: 10px;
+			  font-size:15px;
+			  font-family: Helvetica, sans-serif;
+			}
+			span {
+			  width:200px;
+			  padding:10px 5px;
+			}
+			input {
+			  width:250px;
+			  margin: 10px 0 10px 0;
+			}
+
+			h3 {
+			  margin-left: 5px;
+			}
+			.amount-field {
+			  line-height: 21px;
+			  padding: 2px;
+			  font-size: 16px;
+			  color: #666;
+			}
+			.tip-amount {
+			  color: #a62c29;
+			}
+		</style>
+		<script>
+			function tipCalculate (slider, bill){
+			  var tip = document.getElementById('tipamount');
+			  var slideval = document.getElementById('slideval');
+			  var bill = document.getElementById(bill).value;
+			  var prcnt = slider * .01;
+			  
+			  
+			  if (bill == null || bill == '') {
+				tip.innerHTML = 'Please enter an amount';
+				return false;
+			  }
+			  if(isNaN(bill)) {
+				tip.innerHTML = 'Please enter a number';
+				return false;
+			  }
+			  if(bill >= 0){
+				tip.innerHTML = '$' + (bill * prcnt) .toFixed(2);
+			  slideval.innerHTML = slider + '%';
+			  }
+			}
+		</script>
+	</head>
+	<body>
+		<div class="wrapper">
+		<h1 style="text-align:center;color: red;">HTML Pizza Tip Calculator</h1>
+		  <span>Total bill amount :</span>
+		  $ <input type="text" id="bill" class="amount-field"> <br>
+		  <span>Tip Percentage:</span>
+		  <input type="range" min="0" max="100" value="0" step="1" onchange="tipCalculate(this.value, 'bill')" class="range-style">
+		  <span id="slideval">0%</span>
+		  <h3>Tip to leave = 
+			<span id="tipamount" class="tip-amount">$0.00</span>
+		  </h3>                                           
+		</div>
+	</body>
+</html>
