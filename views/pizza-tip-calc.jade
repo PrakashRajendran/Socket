@@ -1,0 +1,64 @@
+doctype html
+html
+  title HTML | Pizza Tip Calculator
+  head
+    style.
+      .wrapper {
+      with: 100%;
+      background-color: #b7afac;
+      padding: 10px;
+      font-size:15px;
+      font-family: Helvetica, sans-serif;
+      }
+      span {
+      width:200px;
+      padding:10px 5px;
+      }
+      input {
+      width:250px;
+      margin: 10px 0 10px 0;
+      }
+      h3 {
+      margin-left: 5px;
+      }
+      .amount-field {
+      line-height: 21px;
+      padding: 2px;
+      font-size: 16px;
+      color: #666;
+      }
+      .tip-amount {
+      color: #a62c29;
+      }
+    script.
+      function tipCalculate (slider, bill){
+      var tip = document.getElementById('tipamount');
+      var slideval = document.getElementById('slideval');
+      var bill = document.getElementById(bill).value;
+      var prcnt = slider * .01;
+      if (bill == null || bill == '') {
+      tip.innerHTML = 'Please enter an amount';
+      return false;
+      }
+      if(isNaN(bill)) {
+      tip.innerHTML = 'Please enter a number';
+      return false;
+      }
+      if(bill >= 0){
+      tip.innerHTML = '$' + (bill * prcnt) .toFixed(2);
+      slideval.innerHTML = slider + '%';
+      }
+      }
+  body
+    .wrapper
+      h1(style='text-align:center;color: red;') HTML Pizza Tip Calculator
+      span Total bill amount :
+      | 		  $ 
+      input#bill.amount-field(type='text')
+      br
+      span Tip Percentage:
+      input.range-style(type='range', min='0', max='100', value='0', step='1', onchange="tipCalculate(this.value, 'bill')")
+      span#slideval 0%
+      h3
+        | Tip to leave = 
+        span#tipamount.tip-amount $0.00
