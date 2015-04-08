@@ -27,6 +27,10 @@ module.exports = function(passport) {
 	  log.info('Redirecting to contact page');
 	  res.render('about', { title: 'SocketWebApp | about'})
 	});
+	
+	app.get('/pizza-tip-calc', function(req, res) {
+		res.render('pizza-tip-calc');
+	});
 	 
 	/*	GET contact */
 	app.get('/contact', function(req, res) {
