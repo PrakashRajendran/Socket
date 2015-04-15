@@ -1214,3 +1214,208 @@
 [2015-04-07 21:15:16.424] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
 [2015-04-07 21:15:32.074] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
 [2015-04-07 21:15:36.123] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-14 23:31:01.119] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-14 23:31:36.090] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:31:40.456] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:33:50.971] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-14 23:35:12.736] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:35:16.437] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:35:26.988] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:35:56.648] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:36:01.497] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:36:36.362] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:41:37.056] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:41:40.147] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-14 23:41:41.041] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-14 23:41:41.046] [INFO] SocketWebApp - User : Socket Administratoris currently logged in
+[2015-04-14 23:41:46.781] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-14 23:42:17.100] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:46:52.953] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:46:57.369] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:47:57.667] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:48:04.410] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:48:29.328] [INFO] SocketWebApp - User and password matching....User is authenticating currently
+[2015-04-14 23:48:29.331] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-14 23:48:46.121] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-14 23:48:51.996] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:48:56.488] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:49:08.610] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-14 23:52:06.426] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:52:13.046] [INFO] SocketWebApp - Invalid Password
+[2015-04-14 23:52:40.672] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:52:42.582] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:53:06.202] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:53:08.157] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:53:24.397] [INFO] SocketWebApp - Invalid Password
+[2015-04-14 23:54:06.532] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:54:09.385] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:54:13.130] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:55:18.376] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:55:19.820] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:55:22.177] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:55:23.150] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:55:24.227] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:55:40.354] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:55:42.185] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:55:58.140] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:56:14.851] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-14 23:56:18.403] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:56:22.428] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:56:30.436] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:56:37.256] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:56:41.237] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:56:43.950] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:56:47.329] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:56:48.329] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:57:09.564] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-14 23:59:55.186] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-14 23:59:56.684] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:00:00.289] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-15 00:01:01.649] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:01:03.165] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-15 00:01:55.640] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:02:05.606] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:02:15.548] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:02:17.706] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:02:19.619] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-15 00:02:24.372] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-15 00:02:34.071] [INFO] SocketWebApp - User Not Found with username prshankar@gmail.com
+[2015-04-15 00:02:45.518] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:05:15.544] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:08:35.964] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:08:39.587] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:08:56.270] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:09:11.183] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:09:26.065] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:09:31.082] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:09:33.356] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:10:04.618] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:10:46.272] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:11:06.485] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:13:11.707] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:13:36.755] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:14:11.518] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:14:16.530] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:14:50.933] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:16:22.033] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:16:37.171] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:17:46.930] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:19:16.977] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:19:27.050] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:19:41.983] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:19:45.138] [INFO] SocketWebApp - User Not Foun111d with username admin/socket
+[2015-04-15 00:20:06.978] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:21:32.657] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:21:34.691] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-15 00:22:02.336] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:22:03.028] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-15 00:22:42.418] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:22:46.860] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-15 00:22:57.224] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:22:58.817] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-15 00:23:12.389] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:23:13.747] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-15 00:23:36.433] [INFO] SocketWebApp - User Not Found with username admin/socket
+[2015-04-15 00:23:37.301] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:23:44.739] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:23:44.742] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:25:48.046] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:26:03.750] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-15 00:26:10.293] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-15 00:26:22.602] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:26:38.029] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:26:57.839] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:27:52.937] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:28:02.892] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:28:32.747] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:28:42.846] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:28:51.526] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:29:18.104] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:29:19.612] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-15 00:30:08.343] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:30:10.931] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:30:15.558] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-15 00:30:58.780] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:31:28.187] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:31:43.406] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:31:53.172] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:31:55.905] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:32:01.081] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-15 00:32:18.200] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:32:20.268] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:32:20.290] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:34:08.925] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:34:53.743] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:34:53.746] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:35:57.124] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:35:58.023] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:35:59.256] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:36:18.423] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:36:28.107] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:36:35.188] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:37:30.196] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:37:35.272] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:37:59.396] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:37:59.416] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:38:03.605] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:38:03.608] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:38:09.661] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:39:22.996] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:39:28.970] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:39:51.550] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:42:09.177] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:42:13.970] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:42:19.452] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:42:23.600] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:42:23.624] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:42:29.150] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:42:29.152] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:42:43.755] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:42:45.021] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:43:38.111] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:43:42.115] [INFO] SocketWebApp - Admin : nullis logged out from the system
+[2015-04-15 00:43:42.137] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:43:45.833] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:43:45.835] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:44:19.220] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:44:19.581] [INFO] SocketWebApp - Oops!! Cannot invoke the user session without proper authentication. Redirecting the user to login
+[2015-04-15 00:44:25.248] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:44:27.716] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:44:27.719] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:44:27.741] [INFO] SocketWebApp - Redirecting to contact page
+[2015-04-15 00:44:39.137] [INFO] SocketWebApp - Connected to database...mongodb://localhost/socketwebapp
+[2015-04-15 00:44:40.829] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:44:40.854] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:44:44.079] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:44:44.082] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:44:44.103] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:44:49.735] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:45:04.971] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:45:10.189] [INFO] SocketWebApp - Redirecting to update terms page
+[2015-04-15 00:45:12.344] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:45:16.679] [INFO] SocketWebApp - Admin : nullis logged out from the system
+[2015-04-15 00:45:16.700] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:45:20.693] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:45:21.408] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:45:21.426] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:45:24.050] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:45:24.052] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:45:24.069] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:45:49.800] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-15 00:45:54.860] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:45:54.880] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:46:31.690] [INFO] SocketWebApp - Encrypting user password to save in database
+[2015-04-15 00:46:32.040] [INFO] SocketWebApp - User Registration succesfull. Redirecting to.....creating user session......redirecting user to dashboard
+[2015-04-15 00:46:32.053] [INFO] SocketWebApp - User : Socket Administratoris currently logged in
+[2015-04-15 00:46:35.091] [INFO] SocketWebApp - User : nullis logged out from the system
+[2015-04-15 00:46:39.704] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:46:43.634] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:46:43.636] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:46:43.745] [INFO] SocketWebApp - Redirecting to data page
+[2015-04-15 00:47:14.432] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-15 00:47:35.093] [INFO] SocketWebApp - Connected to database...mongodb://socketwebadmin:socketwebadmin@ds061188.mongolab.com:61188/socketwebapp
+[2015-04-15 00:47:41.657] [INFO] SocketWebApp - Oops!! Cannot invoke the admin session without proper authentication. Redirecting the admin to login
+[2015-04-15 00:47:41.679] [INFO] SocketWebApp - Redirecting to admin
+[2015-04-15 00:47:44.776] [INFO] SocketWebApp - User and password matching....Administrator is logging in
+[2015-04-15 00:47:44.778] [INFO] SocketWebApp - User : Socket Administrator is currently logged in
+[2015-04-15 00:47:44.899] [INFO] SocketWebApp - Redirecting to data page

@@ -19,7 +19,7 @@ module.exports = function(passport){
     });
 
     // Setting up Passport Strategies for Login and Registration
-    login(passport);
+	login(passport);
     register(passport);
 
 }

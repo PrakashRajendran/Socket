@@ -54,11 +54,11 @@ html
         // 
       // end .header
       .content
-        form(id='register-form', action='/register.jade', method='POST', onsubmit='return checkCheckBox(this)')
+        form(id='register-form', action='/register', method='POST', onsubmit='return checkCheckBox(this)')
           br
           br
           br
-          h3  Please fill the form given below
+          h3  Register Now
           br
           br
           input.input-box(type='text', name='firstName', id='firstName', placeholder='First Name', required='')
@@ -74,6 +74,12 @@ html
             option(value='3') Visitor
           br
           br
+          select#select-occupation
+            option(value='0') GENDER
+            option(value='1') Male
+            option(value='2') Female
+          br
+          br
           input.input-box(type='email', name='username', id='username', placeholder='Email ID', required='')
           br
           br
@@ -83,13 +89,12 @@ html
           input.input-box(type='password', name='confirmpassword', id='confirmpassword', placeholder='Retype Password', required='')
           br
           br
-          b(id='terms')
-           a(href='#') Please read and accept terms and conditions
+          b(id='termsline')
+           a(href='terms') Terms and Conditions
           br 
           br
-          | I accept: 
           input(type='checkbox', value='0', name='agree')
-          br
+          |&nbsp I accept
           br
           button#submit.orangegrade SUBMIT
           br
