@@ -31,7 +31,7 @@ module.exports = function(passport){
 						}
 						// User exists but wrong password, log the error 
 						if (!isValidPassword(user, password)){
-							log.info('Inva111lid Password');
+							log.info('Invalid Password');
 							return done(null, false, req.flash('message', 'Invalid Password')); // redirect back to login page
 						}
 						// User and password both match, return user from done method
